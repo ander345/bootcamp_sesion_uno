@@ -8,6 +8,6 @@ public class ejercicioconcatenar {
         for (String items:nombres  ) {
             cadena+=items;
         }
-        System.out.println("cadena concatenada: " + cadena);
+        System.out.println("Cadena concatenada: " + cadena);
     }
 }
