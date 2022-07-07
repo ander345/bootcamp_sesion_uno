@@ -15,6 +15,4 @@ public class CocheCRUDImpl implements CocheCRUD{
     public void delete() {
         System.out.println("esto es: delete");
     }
-
-
 }
